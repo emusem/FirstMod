@@ -1,0 +1,21 @@
+[
+{
+  "modid": "FirstMod",
+  "name": "Emusem's First Mod",
+  "description": "Emusem's first attempt at learning to mod Minecraft",
+  "version": "0.0",
+  "mcversion": "1.7.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "emusem"
+  ],
+  "credits": "Special thanks to Pahimar for his Let's Mod series on Youtube!",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent": "",
+  "dependencies": [
+  ]
+}
+]
